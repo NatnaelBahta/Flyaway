@@ -6,9 +6,8 @@ This application created user to search flights by entering information from whe
 
 ## Admin: 
 The application also designed admin to log in into their admin account which created with MySQL table creation. Once the admin login, it will show them admin dashboard which can add flights detail, change password and logout
-![image](https://user-images.githubusercontent.com/107365917/180038181-4dcd4af3-ae65-43e0-88ab-318f050bb3e2.png)
 
-<img width="1280" alt="Home Page Screen Shot" src="https://user-images.githubusercontent.com/107365917/180038057-861d331f-4e2e-469d-9472-5c742f8afdd9.png">
+<img width="1280" alt="Home Page Screen Shot" src="https://user-images.githubusercontent.com/107365917/180040662-414042d7-0bb7-4b9e-9270-41a62397a90a.png">
 
 ## Before you run this application we must create database and tables. Then run the below queries
 
